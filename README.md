@@ -1,1 +1,1 @@
-# git_test
+This is Givemore's first git project!
